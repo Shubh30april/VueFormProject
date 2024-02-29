@@ -101,6 +101,7 @@ const props = defineProps({
     padding: 10px;
 }
 .birthdayClass{
+    padding: 11px;
     padding: 9px;
 }
 
